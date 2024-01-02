@@ -6,7 +6,7 @@ export default function Media() {
     {
       title: "Github",
       linkText: "Pingzza",
-      link: "https://github.com/",
+      link: "https://github.com/Pingzza/Mintbot",
     },
     {
       title: "Twitter",
